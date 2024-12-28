@@ -1,4 +1,4 @@
-# Instructions 
+# Instructions (Command-Line Interaction)
 
 ## SearXNG Installation
 - Install [Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
