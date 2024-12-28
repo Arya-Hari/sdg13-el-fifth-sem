@@ -22,4 +22,12 @@
 - From the terminal, run ```docker-compose up -d```.
 
 ## Ollama Setup
-- 
+- Install [Ollama](https://ollama.com/download/windows)
+- Run the command
+  ```ollama run llama3.2``` on the terminal to start the Llama 3.2 3B model locally on Ollama.
+
+## Running the Script
+- Create a virtual environment : ```python -m venv .venv```
+- Activate the virtual environment : ```.venv\Scripts\activate```
+- Install dependencies : ```pip install requirements.txt```
+- Run the script : ```python ollama-searxng.py```
