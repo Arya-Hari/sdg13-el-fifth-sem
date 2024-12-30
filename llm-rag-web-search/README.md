@@ -27,6 +27,7 @@
   ```ollama run llama3.2``` on the terminal to start the Llama 3.2 3B model locally on Ollama.
 
 ## Running the Script
+- Clone this repository : ```git clone https://github.com/Arya-Hari/vishwa-sustainability-app.git```
 - Create a virtual environment : ```python -m venv .venv```
 - Activate the virtual environment : ```.venv\Scripts\activate```
 - Install dependencies : ```pip install requirements.txt```
