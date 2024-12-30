@@ -31,4 +31,4 @@
 - Create a virtual environment : ```python -m venv .venv```
 - Activate the virtual environment : ```.venv\Scripts\activate```
 - Install dependencies : ```pip install requirements.txt```
-- Run the script : ```python ollama-searxng.py```
+- Run the script : ```python ollama-searxng-food.py``` or ```python ollama-searxng-waste.py```
