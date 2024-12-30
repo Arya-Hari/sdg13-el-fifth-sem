@@ -32,3 +32,5 @@
 - Activate the virtual environment : ```.venv\Scripts\activate```
 - Install dependencies : ```pip install requirements.txt```
 - Run the script : ```python ollama-searxng-food.py``` or ```python ollama-searxng-waste.py```
+
+To run the API script, run ```python fd-endpoint.py```
